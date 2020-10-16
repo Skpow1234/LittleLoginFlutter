@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "774967803052",
+    "firebase_url": "https://cartflutterapp2020-2.firebaseio.com",
+    "project_id": "cartflutterapp2020-2",
+    "storage_bucket": "cartflutterapp2020-2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:774967803052:android:7933f9addbd44115e7f309",
+        "android_client_info": {
+          "package_name": "dina.ec.flutter_ui_avanzadas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "774967803052-uf3nbe05hvgrederdi6euogrctkku8eh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcymecMtQgK65rIygYoVPxc26H3o0-GiU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "774967803052-uf3nbe05hvgrederdi6euogrctkku8eh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "774967803052-6dgi60m0avtsp789va016fquborv1ei3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "dina.ec.flutteruiavanzadas"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
